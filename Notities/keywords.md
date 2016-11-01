@@ -45,3 +45,13 @@ Financiele transactie*
 #    Voorraadbeheer
         - Het bedrijf dient een efficient Voorraadbeheer te voeren, zodat de winst van het centrale hart zo optimaal mogelijk is.
         - Personeel voorziet in voldoende personeel, opdat de bedrijfsvoering niet door gebrek aan personele bezetting in gevaar komt.
+
+
+
+
+
+**OVERIGE EISEN**
+#   Digitale bedrijfsvoering
+    - Voor CB-Activiteit Uitgave is een Track and Trace (GEO-ICT) wenselijk
+    - Handhaving van de arbeidstijdenwet voor inzet van personeel is wenselijk
+    - Met betrekking tot contact met de service desk is sociale media wenselijk
