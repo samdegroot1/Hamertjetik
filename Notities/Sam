@@ -1,0 +1,53 @@
+Leverancier
+    - LeverancierID
+    - bedrijfsnaam
+    - adres
+    - postcode
+    - plaats *
+    - email
+    - telefoonnummer
+    - betaalGegevens
+
+InkoopOrder
+    - LeverancierID
+    - Product
+    - Hoeveelheid
+    - Kosten
+    - afleverDatum
+    - opmerking (optioneel)
+
+Klant
+    - KlantID
+    - naam
+    - adres
+    - postcode
+    - plaats
+    - orderId
+    - ttCode (trackNtrace)
+    - emailadres
+    - telefoonnummer
+    - betaalGegevens
+
+Personeel
+    - PersoneelID
+    - naam
+    - adres
+    - postcode
+    - plaats
+    - rekeningnummer
+    - beschikbaar
+
+Orders
+    - OrderID
+    - productId
+    - aantal
+    - prijs
+    - status
+
+Products
+    - ProductID
+    - productNaam
+    - voorraad
+    - aantalBesteld
+    - prijs
+    - categorie

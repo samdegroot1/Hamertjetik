@@ -40,7 +40,7 @@ Financiele transactie
         - Klant(onderdeel) beheert klantgegevens en stimuleert de klant tot het verrichten van aankoopgedrag
         - (Servicedesk) handelt vragen en klachten af van klanten
         - (Financiele transactie) maakt digitale betaling mogelijk, maar ook de betalingen die NIET binnen de termijn afgehandeld zijn
-        - (Personeel) voorziet in voldoende personeel, opdat de bedrijfsvoering niet door gebrek aan personele bezetting in gevaar komt.
+        - (Personeel) voorziet in voldoende personeel, zodat de bedrijfsvoering niet door gebrek aan personele bezetting in gevaar komt.
 
 #    Voorraadbeheer
         - Het bedrijf dient een efficient Voorraadbeheer te voeren, zodat de winst van het centrale hart zo optimaal mogelijk is.
